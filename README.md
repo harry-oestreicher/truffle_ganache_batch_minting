@@ -26,6 +26,7 @@ $ npm install
 ``` bash
 npm install ganache-cli
 npm install geth
+npm install --save @drizzle/store
 npm audit fix
 
 ```

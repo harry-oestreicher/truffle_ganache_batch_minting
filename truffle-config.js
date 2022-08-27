@@ -21,4 +21,9 @@ module.exports = {
 			},
 		},
 	},
+	dashboard: {
+		port: 25012,
+		host: "localhost",
+		verbose: true
+	}
 };

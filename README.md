@@ -19,7 +19,15 @@
 ### 2. Install Dependencies:
 ```
 $ cd nft_batch_minting
-$ npm install 
+$ npm install
+```
+
+---
+``` bash
+npm install ganache-cli
+npm install geth
+npm audit fix
+
 ```
 
 ### 3. Start Ganache
